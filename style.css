@@ -26,8 +26,19 @@ section{
     background-image: linear-gradient(orange, rgb(255, 34, 0));
     padding: 10px 40px;
     border-radius: 5px;
+    letter-spacing: 1.5px;
 }
 .top-banner{
     background-image: url(/images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 150px;
+}
+.middle{
+    background-image: url(/images/dream-bg.png);
+    background-size: 85px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.second-para{
+    padding-right: 80px;
 }
