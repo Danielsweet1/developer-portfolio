@@ -30,12 +30,12 @@ h1{
     
 }
 .top-banner{
-    background-image: url(images/top-banner.png);
+    background-image: url(top-banner.png);
     background-repeat: no-repeat;
     margin-bottom: 150px;
 }
 .middle{
-    background-image: url(images/dream-bg.png);
+    background-image: url(dream-bg.png);
     background-size: 85px;
     background-repeat: no-repeat;
     background-position: right;
@@ -44,7 +44,7 @@ h1{
     padding-right: 80px;
 }
 .experience-area{
-    background-image: url(images/exp-bg.png);
+    background-image: url(exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 70px;
