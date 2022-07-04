@@ -43,20 +43,36 @@ h1{
 .second-para{
     padding-right: 80px;
 }
+.experience-area{
+    background-image: url(/images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 70px;
+}
 .third{
     margin-right: 30px;
-    margin-left: 10px;
+    margin-left: 30px;
     border: 2px solid white;
     padding-left: 20px;
     padding-right: 20px;
-    box-shadow: 5px 5px 10px 5px rgb(186, 181, 181);
+    box-shadow: 10px 10px 20px 10px rgb(186, 181, 181);
+    border-radius: 7px;
+    margin-bottom: 40px;
+    height: 400px;
 }
 .third1{
-    border-left: 5px solid rgb(0, 255, 132);
+    border-left: 7px solid rgb(0, 255, 132);
 }
 .third2{
-    border-left: 5px solid blue;
+    border-left: 7px solid blue;
 }
 h2{
     font-size: 30px;
+}
+.para{
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+.footer{
+    text-align: center;
 }
